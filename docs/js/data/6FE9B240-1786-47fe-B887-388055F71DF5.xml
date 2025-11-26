@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.2.1", "", "Capabilities", "EARoot/EA1/EA1/EA2/EA1/EA37.htm", "4.png", "", "", "{DC389B0D-72BC-4b03-907B-90CA6112ECD4}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.2.2", "", "Courses of action", "EARoot/EA1/EA1/EA2/EA2/EA38.htm", "4.png", "", "", "{9942C977-6625-4809-A76A-B702F0A96B21}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.2.3", "", "Resources", "EARoot/EA1/EA1/EA2/EA3/EA39.htm", "4.png", "", "", "{181CCE17-8626-4f68-B988-0D2BC9C6CF7E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.2.4", "", "Value streams", "EARoot/EA1/EA1/EA2/EA4/EA40.htm", "4.png", "", "", "{01464520-1F57-4cdb-BDD3-8A25E82066CC}", "Package");
